@@ -33,8 +33,7 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-//                bottomNavigationView.background = null
-//                bottomNavigationView.menu.getItem(2).isEnabled = false
+
 
 
     }
